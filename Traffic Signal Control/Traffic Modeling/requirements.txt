@@ -1,0 +1,7 @@
+future==0.18.2
+optparse==1.5.10
+keras==2.8.0
+numpy==1.21.2
+sumolib==1.8.0
+matplotlib==3.4.3
+tensorflow==2.7.0
